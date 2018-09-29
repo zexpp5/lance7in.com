@@ -39,3 +39,18 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+
+
+
+### Deploy to remote sites
+参考了以下文章
+
+[搭建Hexo博客相册](https://malizhi.cn/HexoAlbum/)
+
+[Hexo-WordCount](https://github.com/willin/hexo-wordcount)
+
+[Hexo 博客从搭建部署到SEO优化等详细教程](https://www.jianshu.com/p/efaf72aab32e?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+
+
+
