@@ -6,4 +6,4 @@ tags:
 
 try local image
 
-[222](touch/logo.png)
+![222](touch/logo.png)
