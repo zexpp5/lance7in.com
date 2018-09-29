@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
+title: Lance7in
+subtitle: blog
+description: lance7in
+keywords: lance7in
+author: Lance7in
+language: zh-Hans
 timezone:
 
 # URL
@@ -94,3 +94,5 @@ search:
 ## Plugins: http://hexo.io/plugins/
 plugins:
   hexo-generate-feed
+
+
