@@ -7,6 +7,7 @@ categories: init
 
 try local image
 
+![bbbm](https://bbbm.com/template/zhanzhuai_jianshu/zhanzhuaicn_img/logo.png)
 ![222](touch/logo.png)
 
 文章摘要
